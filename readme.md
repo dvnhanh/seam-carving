@@ -50,5 +50,4 @@ Báo cáo: https://github.com/dvnhanh/seam-carving/blob/main/Seam_Carving.ipynb
 
 ## Minh họa
 
-<img src="https://github.com/dvnhanh/seam-carving/blob/master/img/castle.jpg" height="342"> 
-<img src="https://github.com/dvnhanh/seam-carving/blob/master/img/castle_shrink.jpg?raw=true" height="342">
+<img src="https://github.com/dvnhanh/seam-carving/blob/master/img/castle.jpg" height="342"> <img src="https://github.com/dvnhanh/seam-carving/blob/master/img/castle_shrink.jpg?raw=true" height="342">
